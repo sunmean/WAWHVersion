@@ -3,7 +3,7 @@
 "version" : "1.0.1",
 "apiVersion" : "1.0.0",
 "status" : "2",
-"domainPrefix" : "http://wawhigx.qicp.vip/",
+"domainPrefix" : "wawhigx.qicp.vip/",
 "onlineOldWebDomains":[],
 "onlineNewWebDomains":[],
 "isOpen" : "1",
