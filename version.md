@@ -7,7 +7,7 @@
 "onlineOldWebDomains":[],
 "onlineNewWebDomains":[],
 "isOpen" : "1",
-"isSwitchDomain" : "0",
+"isSwitchDomain" : "1",
 "isSwitchWebDomain" : "0",
-"isOpenHttpsSSL" : "1",
+"isOpenHttpsSSL" : "0",
 }</span>
