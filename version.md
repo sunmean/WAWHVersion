@@ -3,11 +3,11 @@
 "version" : "1.0.0",
 "apiVersion" : "1.0.0",
 "status" : "2",
-"domainPrefix" : "wawhigx.qicp.vip/",
+"domainPrefix" : "ygx.ioa365.cn/",
 "onlineOldWebDomains":[],
 "onlineNewWebDomains":[],
 "isOpen" : "0",
 "isSwitchDomain" : "0",
 "isSwitchWebDomain" : "0",
-"isOpenHttpsSSL" : "0",
+"isOpenHttpsSSL" : "1",
 }</span>
